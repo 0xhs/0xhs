@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I use this place to improve myself and to record the things I do ✨
 
 <!--
 **Novaytre/Novaytre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Novaytre) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaytre)](https://github.com/anuraghazra/github-readme-stats)
+
+#### [😄] Project I had the most fun doing: <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Novaytre&repo=ReactJS-World-Time-API-Using)](https://github.com/Novaytre/ReactJS-World-Time-API-Using)
