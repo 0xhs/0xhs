@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 #### [😄] Project I had the most fun doing: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Novaytre&repo=ReactJS-World-Time-API-Using)](https://github.com/Novaytre/ReactJS-World-Time-API-Using)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/653592785043193886)](https://discord.com/users/653592785043193886)
-
